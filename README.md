@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud automation and AI control systems.
 - 🌱 I’m currently learning Python and Google Cloud Platform.
 - 💞️ I’m looking to collaborate on open-source AI infra tools.
-- 📫 How to reach me: nutsenadns@gmail.com
+- 📫 How to reach me: nutdate
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I automate everything—even my coffee!
 
