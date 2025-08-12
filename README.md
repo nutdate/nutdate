@@ -1,37 +1,36 @@
-# 👋 Hi, I’m @nutdate
-- 👀 I’m interested in cloud automation and AI control systems.
-- 🌱 I’m currently learning Python and Google Cloud Platform.
-- 💞️ I’m looking to collaborate on open-source AI infra tools.
-- 📫 How to reach me: nutdate
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I automate everything—even my coffee!
+### Hi, I’m @nutdate 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nutdate&color=green)
-![Languages](https://img.shields.io/badge/Code-Zsh%2C%20Python%2C%20GCP-blue)
 
-## 🧰 My Tech Toolbox
+- 👀 ผมสนใจเกี่ยวกับระบบอัตโนมัติบนคลาวด์ (Cloud Automation) และระบบควบคุม AI (AI control systems)
+- 🌱 ตอนนี้กำลังเรียนรู้ Python และ **Amazon Web Services (AWS)** อย่างจริงจัง
+- 💞️ ผมมองหาโอกาสร่วมงานในโปรเจกต์โอเพนซอร์สที่เกี่ยวกับโครงสร้างพื้นฐานด้าน AI **โดยเฉพาะบน AWS**
+- ⚡ ผมมีความเชี่ยวชาญในการใช้ **AWS CLI** เพื่อควบคุมและจัดการ Service ต่างๆ ผ่าน Command-line บน **Termux**
+- 📫 ติดต่อผมได้ที่: nutdate
+- 😄 สรรพนาม: he/him
 
+---
+
+### 🧰 Tech Toolbox ของฉัน
+
+![Amazon Web Services](https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazon-aws)
+![AWS CLI](https://img.shields.io/badge/Tool-AWS%20CLI-lightgrey?style=flat&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=debian&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Cloud-GCP-blue?style=flat&logo=googlecloud)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
+
+### 📊 สถิติ GitHub ของฉัน
 
 ![nutdate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nutdate&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutdate&layout=compact&theme=tokyonight)
 
-## 📂 Featured Projects
+### 📂 โปรเจกต์เด่น (AWS & Termux)
 
-- 🔧 [vm-control-api](https://github.com/nutdate/vm-control-api): Modular GCP automation using Zsh & Cloud Run.
-- 📊 [cloud-stats-viewer](https://github.com/nutdate/cloud-stats-viewer): Real-time resource dashboard for GCP.
+- 🚀 **[termux-aws-automation](https://github.com/nutdate/termux-aws-automation)**: ชุดสคริปต์ Zsh สำหรับจัดการงาน AWS ทั่วไป (เช่น เริ่ม/หยุด EC2, อัปโหลดไฟล์ไป S3) โดยอัตโนมัติจาก Termux
+- 🧠 **[rekognition-cli-tool](https://github.com/nutdate/rekognition-cli-tool)**: เครื่องมือ Command-line สำหรับวิเคราะห์รูปภาพด้วย AWS Rekognition ที่ปรับให้เหมาะกับการใช้งานบน Shell
 
 ---
 
 > “Automation is freedom. Code is poetry.” — nutdate
 
-<!---
-nutdate/nutdate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Profile Views](https://komarev.com/ghpvc/?username=nutdate&color=green)
