@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+#!/bin/zsh
+>>>>>>> origin/master
 IMAGE_ID="ami-08d17f4183e481a35"
 INSTANCE_TYPE="t2.micro"
 KEY_NAME="MyEC2Key"
